@@ -14,6 +14,7 @@
 		F98518401F2C6A320082F815 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F985183E1F2C6A320082F815 /* LaunchScreen.storyboard */; };
 		F985184B1F2C6A320082F815 /* SubscriptSuperscriptStringTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F985184A1F2C6A320082F815 /* SubscriptSuperscriptStringTests.swift */; };
 		F98518561F2C6A320082F815 /* SubscriptSuperscriptStringUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98518551F2C6A320082F815 /* SubscriptSuperscriptStringUITests.swift */; };
+		F98518641F2C6A5E0082F815 /* SubscriptSuperscriptString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98518631F2C6A5E0082F815 /* SubscriptSuperscriptString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F98518511F2C6A320082F815 /* SubscriptSuperscriptStringUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SubscriptSuperscriptStringUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F98518551F2C6A320082F815 /* SubscriptSuperscriptStringUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptSuperscriptStringUITests.swift; sourceTree = "<group>"; };
 		F98518571F2C6A320082F815 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F98518631F2C6A5E0082F815 /* SubscriptSuperscriptString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubscriptSuperscriptString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F985183C1F2C6A320082F815 /* Assets.xcassets */,
 				F985183E1F2C6A320082F815 /* LaunchScreen.storyboard */,
 				F98518411F2C6A320082F815 /* Info.plist */,
+				F98518631F2C6A5E0082F815 /* SubscriptSuperscriptString.swift */,
 			);
 			path = SubscriptSuperscriptString;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				F98518381F2C6A320082F815 /* ViewController.swift in Sources */,
 				F98518361F2C6A320082F815 /* AppDelegate.swift in Sources */,
+				F98518641F2C6A5E0082F815 /* SubscriptSuperscriptString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
